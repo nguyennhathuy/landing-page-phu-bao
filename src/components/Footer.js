@@ -46,7 +46,7 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" ></Link>
+                    <Link to="#" >lienhe@pbsofu.com</Link>
                   </li>
                   <li>
                     <Link to="#" ></Link>

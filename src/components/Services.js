@@ -10,11 +10,12 @@ function Services() {
                         <Card title="Web Development" img="card1.png" text="" />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="" />
+                        <Card title="E-Commerce Services" img="card2.png" text="" />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Mobile App Development" img="card3.png" text="" />
+                        <Card title="Mobile App Development" img="card3.png" text="" />
                     </div>
+                    
                 </div>
             </div>
         </div>

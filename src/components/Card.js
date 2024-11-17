@@ -4,7 +4,14 @@ function Card(props) {
       <br />
       
       <div className="text-center">
-        <img alt="card-img" src={"./img/"+props.img} className="text-center img-fluid" />
+        <img
+          
+          alt="card-img" 
+          src={"./img/"+props.img} 
+          className="text-center img-fluid"
+          style={{ width: '200px', height: '110px' }}
+        />
+
       </div>
       <div className="text-center">
         <h3 className="card-title">{props.title}</h3>
